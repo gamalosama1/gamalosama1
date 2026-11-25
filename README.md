@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gamal Osama</h1>
 <h2 align="center"> AI/ML Engineer | Data Scientist </h2>
 
-<img align="right" alt="ai-gif" width="360" height="300" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9Wgd_X58Ije_Ml94Qs-P_Q.gif" />
+<img align="right" alt="ai-gif" width="350" height="290" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9Wgd_X58Ije_Ml94Qs-P_Q.gif" />
 
 ### My Portfolio:
 -  Explore the journey and my work: [gamalosama.software](https://gamalosama.software/)
